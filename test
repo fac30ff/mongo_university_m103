@@ -1,0 +1,13 @@
+# M103: Basic Cluster Administration chapter 1 The Mongod Learning Record
+Operating environment
+Operating system: windows 8.1pro x64
+Mongodb: Mongodb 3.4
+
+Mongodb installation path: C:>MongoDB\Server\3.4\bin\ 
+Mongodb storage path: C:>MongoDB\data
+
+After school problem
+lab - Launching Mongod
+In this lab, you’re going to launch your own mongod with a few basic command line arguments.
+
+Applying what you’ve learned so far about the mongod process, launch a mongod instance, from the command line, with the following requirements:
